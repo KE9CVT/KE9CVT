@@ -1,5 +1,5 @@
---
-title: "KE9CVT's First Build"
-date: "2025-03-20"
---
-Testing, Testing, we are trying this out. Testing, Testing, figuring this out.
+---
+layout: post
+title:  "Welcome to KE9CVT!"
+---
+Hey there! I'm not a professional, and I am still learning, however, I will try to make this page look... Decent!
